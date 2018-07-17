@@ -4,7 +4,7 @@
 #Author: RUIXU
 print("遇见你是最美丽的意外！")
 import this
-salary = input("请输入你的月薪: 输入q或Q退出：")
+salary = input("请输入你的月薪: ")
 try:
 	a = int(salary)
 except:
