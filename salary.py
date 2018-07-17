@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+#-*- coding:utf-8 -*-
 #Date：2018-07-17
 #Author: RUIXU
 print("遇见你是最美丽的意外！")
